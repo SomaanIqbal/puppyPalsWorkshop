@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+.featuredPupBox {
+  border: 2px dashed rgb(89, 255, 0);
+  padding: 5px;
+  background-color: rgb(255, 97, 123);
+  margin: 20px;
+}
+
+.featuredPupBox > ul{
+  text-align: left;
+}
+
+.app {
+  display: flex;
+}
